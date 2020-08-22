@@ -1,0 +1,31 @@
+body {
+    background-color: #f6f6f6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ffe2e2;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+
+}
+table{
+    color: #8785a2;
+}
+li{
+    color: #8785a2;
+}
+h1{
+    color: #ffc7c7;
+    font-family: "Sofia";
+}
+h3{
+    color: #ffc7c7;
+    font-family: "ABeeZee";
+}
+p{
+    color: #8785a2;
+    font-family: "Assistant";
+}
+/*test*/
